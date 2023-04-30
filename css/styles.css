@@ -160,6 +160,7 @@ main .redes li a img:hover{
    
 }
 footer{
+    width: 100%;
     height: 90px;
     color: #fbfbfb;
     background: #af599e;
