@@ -96,7 +96,7 @@ header h1{
     font-size: 36px;
 }
 main{
-    width: 430px;
+    
     min-height: 100vh;
     margin-top: 120px;
     text-align: center;
@@ -106,6 +106,9 @@ main{
 main section img{
     border-radius: 50%;
     margin-bottom: 20px;
+    width: 70%;
+    max-width: 400px;
+
     
 }
 main section h1{
@@ -115,10 +118,9 @@ main section h1{
 main section button{
     color: white;
     background: #af599e;
-    height: 2.5rem;
     padding: 15px;
     margin-top: 20px;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
     border-radius: 20px;
     border: none;
     font-size: 20px;
@@ -131,7 +133,7 @@ main section button:hover{
 
 }
 main .article-2{
-    height: 200px;
+    padding: 1.5rem;
     background: rgba(175, 89, 158, 0.3);
     border-radius: 15px;
     margin: 0 auto; 
